@@ -1,4 +1,4 @@
-# Welcome to [Sahil Choure](https://sahil-choure.github.io/portfolio/) profile! <a href="https://sahil-choure.github.io/portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# <img width="80px" src="https://user-images.githubusercontent.com/2780145/172943108-beb1fb36-3195-4b1a-8d14-cbba8d0400ea.gif" />Hi there!  Welcome to [Sahil Choure](https://sahil-choure.github.io/portfolio/) profile! <a href="https://sahil-choure.github.io/portfolio/">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/sahil-choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-choure" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/_.sahil.choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sahil.choure" height="30" width="40" /></a>&nbsp;
@@ -6,19 +6,20 @@
 
 ## Glad to see you here! &nbsp; <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-choure&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-choure" /> </p>
 
+<img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" />  
+
 I am a full-stack software engineer. I love programming.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="336" align='right'>
 
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Software Engineering Student**
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/sahil-choure/) & [GfG](https://auth.geeksforgeeks.org/user/lihas)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
   - J2EE and J2ME
   - Oracle Cloud Infrastructure (OCI)
